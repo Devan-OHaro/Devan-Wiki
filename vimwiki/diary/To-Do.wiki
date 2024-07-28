@@ -1,0 +1,13 @@
+= To-Do =
+
+* [ ] Drywall mud the outlet region of the kitchen some more
+* [o] Make sure to journal some of this stuff, since I want this to be a thing.
+* [.] Learn some more vimwiki stuff.
+* [o] Demo trash and reorganize garage
+* [X] Reach out to countertop guy
+* [ ] Get back into LeetCode or study algorithms
+* [ ] Find new floor guy
+* [ ] Fix light fixture
+* [ ] Put in baseboards next to pantry
+* [ ] Install island after finishing floors
+* [ ] Figure out outlet for Coffee bar

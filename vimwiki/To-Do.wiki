@@ -1,0 +1,26 @@
+= To-Do =
+
+* [ ] Drywall mud the outlet region of the kitchen some more
+* [o] Make sure to journal some of this stuff, since I want this to be a thing.
+* [o] Demo trash and reorganize garage
+* [X] Reach out to countertop guy
+* [ ] Get back into LeetCode or study algorithms
+* [ ] Find new floor guy
+* [ ] Fix light fixture
+* [ ] Put in baseboards next to pantry
+* [ ] Install island after finishing floors
+* [ ] Figure out outlet for Coffee bar
+
+== VimWiki ==
+
+* [.] Learn some more vimwiki stuff.
+* [ ] Take To-Do's out of each date entry
+* [ ] Integrate with GitHub
+* [ ] Organize main page
+* [ ] Put Vacation notes into main diary
+* [ ] Make phone more versitile
+
+== Devan Database Project ==
+
+* [ ] Do Daily work
+* [ ] learn to edit data with Python for vimwiki stuff too

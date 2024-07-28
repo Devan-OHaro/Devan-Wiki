@@ -1,0 +1,10 @@
+Testing the Diary stuff right now, follinw a Youtube video
+
+Things I've learned:
+* <Leader> w i - Goes to Diary
+* <Leader> w <Leader> y - Goes to YESTERDAY'S daily entry
+* <Leader> w <Leader> i - Updates Diary to include daily entries
+* <Leader> w <Leader> m - Note for tomorrow
+* <Leader> w <Leader> t - Goes to TOMORROW'S daily entry
+* <Leader> w <Leader> w - Goes to TODAY'S daily entry
+

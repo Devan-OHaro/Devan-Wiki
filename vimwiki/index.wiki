@@ -1,0 +1,188 @@
+= Devan's Wiki =
+
+- Projects
+	* Kitchen
+	* ADU
+- [[Hobbies]]
+	* Games
+	* Anime
+	* Computer stuff
+- Work
+- Self Improvement
+	* Mental
+	* Physical
+	* Relationships
+	* Organization
+- Errands
+	* [[To-Do]]
+		* Learn how to add manual links to vimwiki
+- Wants
+	* Short-Term
+	* Long-Term
+
+== Actual VimWiki/Diary Notes ==
+
+Soon, I should organize this wiki actually.
+
+Things I've learned:
+
+Diary:
+* <Leader> w i 		- Goes to Diary
+* <Leader> w <Leader> y - Goes to YESTERDAY'S daily entry
+* <Leader> w <Leader> i - Updates Diary to include daily entries
+* <Leader> w <Leader> m - Note for tomorrow
+* <Leader> w <Leader> t - Goes to TOMORROW'S daily entry
+* <Leader> w <Leader> w - Goes to TODAY'S daily entry
+* <C-<up-arrow>		- Previous day
+* <C-<down-arrow>	- Next day
+
+Checkboxes:
+* <C-Space> 		- toggle a checkbox
+* gnt			- Find next checkbox
+* gl<Space>		- Delete checkbox
+* gL<Space>		- Delete checkbox and all sibling checkboxes
+* gln			- Increase doneness of checkbox
+* glp			- Decrease doneness of checkbox
+
+== Anime Diary ==
+
+Moved to better area
+
+=== Vinland Saga ===
+
+Moved
+
+=== Frieren ===
+
+Sun Jul  7 05:57:03 PM EDT 2024
+
+They just completed the labrynth for the second trial to become a first class mage.
+Badass fight scenes.
+Fitz said he'd probably like the show and I agree.
+I have two episodes left and I'm ready to watch them and see how they finally finish the exams.
+
+Sun Jul  7 06:53:32 PM EDT 2024
+
+Just finished Frieren for now. 
+It was really good.
+Lot's of life lessons in there I hop not to forget.
+Mostly, it's about the small things, and not to have a tear-ful goodbye when you know you'll see them again.
+Cool.
+
+
+=== Solo Leveling ===
+
+Tue Jul  9 06:26:27 PM EDT 2024
+
+Just updating this now (again), but it was pretty good.
+Mostly just the main character doing his job change quest.
+It was difficult and fun to watch the boss fight.
+Super cool power of necromancy in the season finally.
+We'll see where that takes him in the next season.
+
+Mon Jul  8 05:56:08 AM EDT 2024
+
+Just updating this now, but last night I wached some solo-leveling to catch up with where I was at.
+I rewatched some episodes.
+He killed that one executive that was blood thirsty through his dungeons and now has a target on his back since it was a S-rank's brother.
+Then he tricked some buisiness into buying their C-rank dungeons.
+Yeah nothing crazy, just getting the work in to become A-rank.
+
+Vinland Saga
+
+Wed Jul 10 06:06:03 AM EDT 2024
+
+I resumed this last night.
+It's starting to get good with the king and everything.
+Now it'll be a political war and stuff since they were trying to kill the prince actually.
+Thorfin was a side character for the most part here.
+Anime seems so real when you're high.
+
+=== Goblin Slayer ===
+
+Pasted into proper link
+
+== Game Diary ==
+
+
+=== Fallout New Vegas ===
+Goals:
+* [X] Meet "white bird" or something
+* [ ] Enter New Vegas
+* [X] Complete Zion DLC
+* [o] increase Guns, Medical, and Sneak proportionally
+* [ ] Joshua's history with Caesar after completion of game
+
+Fri Jul  5 08:15:05 AM EDT 2024
+
+First time trying this.
+I just found a "wonderer's" area (1/6) so maybe i'll like to find them all?
+Then I killed a bunch of white legs in the Zion region and disarmed their traps.
+My companion - I forget her name - is trying to convince me to stay... weird, I don't know what that will mean for future dialoge.
+But now I'm about to talk to some white bird person.
+I leveled up twice to 16 also and got the "Nerd Rage" perk which should be nice when overencumbered since I almost always keep health low anyway.
+
+Sun Jul  7 03:18:55 PM EDT 2024
+
+Met white bird - that was a trippy quest killing some flame monster.
+Talked to Joshua Graham about his past, there was probably a lot more there than what I took in.
+I should research it after I complete the game.
+Then I talked to Daniel and he's ready for my decision to fight or flee.
+I saved the game and quit.
+Next time, I'll complete the DLC and probably have them fight.
+
+Mon Jul  8 06:57:54 PM EDT 2024
+
+Just finished the DLC of Zion.
+I wasn't expecting it to end so abruptly to be honest.
+I thought I had more time to do a few more things.
+I'm not too upset.
+I'm sure I can find the stuff online or maybe do another playthrough.
+Either way, I'm happy to be back on track to completing the actual game now.
+
+=== Doom (2016) ===
+Goals:
+* [ ] Upgrade the most aggresive options
+
+Fri Jul  5 09:33:18 AM EDT 2024
+
+Just started Doom. I love the badass feel of the game.
+Just running and gunning.
+So, I just fixed the relay and have a status report on the mars base and now I have to stop a meltdown. 
+I plan on making all my upgrades to whatever can kill more stuff rather than health or radar.
+This will be a fun playthrough.
+
+
+Sat Jul  6 03:22:40 PM EDT 2024
+
+I like it and get bored of it for the same reason, it's just a simple game about killing demons.
+I just saved the mars base from a meltdown and destroyed all the "Filters" that convert the demon energy to clean energy.
+Now I need to kill the scientst cult leader for trying to open the portals.
+
+== Testing == 
+
+* [ ] Learn vimwiki
+* Tasks 
+* More tasks
+* Hmm this one gave me an asterisks
+	- Bullet list level 2?
+		* HMM?
+1. numbered item
+2. continued
+	a) nice
+	b) nicer
+- jfdjsaf
+- jfkdsal;
+- Something
+- Here too
+- hmm it's fixedd.....
+- okay
+- I got the leader key fixed
+- interesting
+* [ ] Task?
+* [ ] maybe
+
+interesting that some of these are different colors in the new color scheme...
+
+- fjdksa
+
