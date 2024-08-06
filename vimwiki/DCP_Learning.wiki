@@ -1,0 +1,228 @@
+= Learning =
+
+* [.] Lesson 1: Python and SQL Basics
+1. **Quick Review of Python Basics**
+   - **Learning Goal:** Refresh on variables, data types, conditions, loops, and functions.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapters 1-3
+   - **Practice Project:** None, review day.
+
+2. **Lists and Dictionaries**
+   - **Learning Goal:** Review lists, list methods, and dictionaries.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapters 4-5
+   - **Practice Project:** To-Do List - Create a simple to-do list application using lists and dictionaries.
+
+3. **String Methods and Regular Expressions**
+   - **Learning Goal:** String manipulation and basics of regular expressions.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapters 6-7
+   - **Practice Project:** Text Analyzer - Write a program to analyze a text file for word/character count.
+
+4. **File Handling**
+   - **Learning Goal:** Learn file reading/writing.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapter 8
+   - **Practice Project:** File Copy - Write a program to copy the content of one file to another.
+
+5. **SQL Basics**
+   - **Learning Goal:** Learn SQL basics: SELECT, INSERT, UPDATE, DELETE.
+   - **Resource:** "Learning SQL" by Alan Beaulieu (Chapters 1-3) or online SQL tutorials
+   - **Practice Project:** Simple SQL Database - Create a small SQLite database, insert records, and query them.
+
+6. **Python and SQL Integration**
+   - **Learning Goal:** Connect Python to SQLite using the `sqlite3` module.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapter 17 (Sections on Databases)
+   - **Practice Project:** Python SQL Interface - Write a script to connect to an SQLite database, create a table, insert data, and fetch the data.
+
+7. **Practice Day**
+   - **Practice Project:** Choose any of the projects from Days 1-6 to enhance or expand.
+
+* [ ] Lesson 2: Intermediate Python and SQL
+8. **Web Scraping Basics**
+   - **Learning Goal:** Fetch web pages using the `requests` module.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapter 11
+   - **Practice Project:** Simple Web Scraper - Fetch and display the content of a web page.
+
+9. **Parsing HTML with BeautifulSoup**
+   - **Learning Goal:** Extract data from HTML using BeautifulSoup.
+   - **Resource:** "Automate the Boring Stuff with Python" - Chapter 12
+   - **Practice Project:** Data Extractor - Extract specific data (headings, links, paragraphs) from a web page.
+
+10. **Reading and Writing CSV Files**
+    - **Learning Goal:** Read and write CSV files using the `csv` module.
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 13
+    - **Practice Project:** CSV Reader - Write a program to read and display CSV file contents.
+
+11. **Parsing JSON Data**
+    - **Learning Goal:** Parse and write JSON data.
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 14
+    - **Practice Project:** JSON Converter - Write a program to convert CSV data to JSON and vice versa.
+
+12. **Advanced SQL Queries**
+    - **Learning Goal:** Learn JOINs, GROUP BY, and aggregate functions.
+    - **Resource:** "Learning SQL" by Alan Beaulieu (Chapters 4-7) or online SQL tutorials
+    - **Practice Project:** SQL Aggregations - Create a database with multiple tables and write queries to perform aggregations and joins.
+
+13. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 8-12 to enhance or expand.
+
+14. **Milestone Project**
+    - **Project:** File Organizer - Write a Python script to organize files in a directory into subdirectories based on their file extensions.
+    - **Resource:** Combine learnings from Chapters 8 and 11 of "Automate the Boring Stuff with Python."
+
+* [ ] Lesson 3: Data Handling and Web Scraping
+15. **Reading and Writing CSV Files (Advanced)**
+    - **Learning Goal:** Learn advanced techniques for working with CSV files.
+    - **Resource:** Online tutorials or documentation for `csv` module.
+    - **Practice Project:** Enhanced CSV Reader - Add functionality to filter and sort CSV data.
+
+16. **Parsing JSON Data (Advanced)**
+    - **Learning Goal:** Learn advanced techniques for working with JSON data.
+    - **Resource:** Online tutorials or documentation for JSON in Python.
+    - **Practice Project:** Enhanced JSON Converter - Add functionality to handle nested JSON data.
+
+17. **Advanced SQL Queries (Continued)**
+    - **Learning Goal:** Further practice JOINs, GROUP BY, and aggregate functions.
+    - **Resource:** "Learning SQL" by Alan Beaulieu (Chapters 8-10) or online SQL tutorials
+    - **Practice Project:** Complex SQL Queries - Create more complex queries involving multiple tables and conditions.
+
+18. **Web Scraping with Authentication**
+    - **Learning Goal:** Learn to scrape websites that require authentication.
+    - **Resource:** Online tutorials or documentation for handling authentication in web scraping.
+    - **Practice Project:** Authenticated Web Scraper - Write a script to scrape data from a website that requires login.
+
+19. **Web Scraping with APIs**
+    - **Learning Goal:** Learn to scrape data using APIs.
+    - **Resource:** Online tutorials or documentation for working with APIs in Python.
+    - **Practice Project:** API Scraper - Write a script to fetch data from a public API and process it.
+
+20. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 15-19 to enhance or expand.
+
+21. **Milestone Project**
+    - **Project:** Web Scraper - Scrape data from a website (e.g., product prices or news articles), store it in an SQLite database, and include functions to query and display the data.
+    - **Resource:** Combine learnings from Chapters 11-14 of "Automate the Boring Stuff with Python."
+
+* [ ] Lesson 4: Data Analysis and Visualization
+22. **Data Analysis with Pandas**
+    - **Learning Goal:** Basic data manipulation using `pandas`.
+    - **Resource:** "Python for Data Analysis" by Wes McKinney (Chapters 1-3) or online Pandas tutorials
+    - **Practice Project:** Data Cleaner - Clean and preprocess a dataset (e.g., remove missing values, filter rows/columns).
+
+23. **Advanced Data Analysis with Pandas**
+    - **Learning Goal:** Advanced data manipulation using `pandas`.
+    - **Resource:** "Python for Data Analysis" by Wes McKinney (Chapters 4-7) or online Pandas tutorials
+    - **Practice Project:** Data Aggregator - Aggregate data and perform group-by operations on a dataset.
+
+24. **Data Visualization with Matplotlib**
+    - **Learning Goal:** Learn to create basic plots and charts using Matplotlib.
+    - **Resource:** Online tutorials or documentation for Matplotlib.
+    - **Practice Project:** Data Plotter - Create basic plots (line, bar, scatter) from a dataset.
+
+25. **Data Visualization with Seaborn**
+    - **Learning Goal:** Learn to create advanced visualizations using Seaborn.
+    - **Resource:** Online tutorials or documentation for Seaborn.
+    - **Practice Project:** Advanced Data Plotter - Create advanced plots (heatmaps, pair plots) from a dataset.
+
+26. **SQL and Pandas Integration**
+    - **Learning Goal:** Query data from an SQL database using Pandas.
+    - **Resource:** Online tutorials for integrating Pandas with SQL.
+    - **Practice Project:** SQL Data Analyzer - Fetch data from an SQL database and analyze it using Pandas.
+
+27. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 22-26 to enhance or expand.
+
+28-29. **Milestone Project**
+    - **Project:** Data Analysis and Visualization - Analyze a dataset (CSV/Excel), store the results in an SQL database, and generate a report with visualizations.
+    - **Resource:** Combine learnings from "Python for Data Analysis" and online tutorials for Matplotlib/Seaborn.
+
+* [ ] Lesson 5: Automation and Scheduling
+30. **Date and Time Basics**
+    - **Learning Goal:** Work with dates and times using the `datetime` module.
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 15 (Section on Dates and Times)
+    - **Practice Project:** Countdown Timer - Create a countdown timer that takes an input time (in seconds) and counts down to zero, displaying the time remaining.
+
+31. **Scheduling Tasks**
+    - **Learning Goal:** Schedule tasks using Python (cron jobs or scheduling libraries).
+    - **Resource:** Online tutorials or documentation for scheduling tasks in Python.
+    - **Practice Project:** Simple Scheduler - Write a script to schedule a task (like a system notification) to run at a specific time.
+
+32. **Sending Emails**
+    - **Learning Goal:** Send emails using the `smtplib` module.
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 16
+    - **Practice Project:** Email Sender - Write a script that sends an email with a custom subject and message.
+
+33. **Automating File Operations**
+    - **Learning Goal:** Automate common file operations (copying, moving, renaming files).
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 9
+    - **Practice Project:** File Manager - Write a script that organizes files in a directory based on file type (e.g., move images to an 'Images' folder).
+
+34. **GUI Automation Basics**
+    - **Learning Goal:** Automate GUI interactions using PyAutoGUI.
+    - **Resource:** "Automate the Boring Stuff with Python" - Chapter 18
+    - **Practice Project:** GUI Automator - Write a script that automates a series of mouse and keyboard actions, like opening a program and typing text.
+
+35. **Advanced GUI Automation**
+    - **Learning Goal:** More advanced GUI automation techniques and error handling.
+    - **Resource:** Online tutorials or documentation for PyAutoGUI.
+    - **Practice Project:** GUI Task Automator - Automate a more complex series of actions, like filling out a form on a website.
+
+36. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 30-35 to enhance or expand.
+
+37-39. **Milestone Project**
+    - **Project:** Task Automator - Write a comprehensive script that combines multiple automation techniques (file operations, scheduling, GUI automation, sending emails) to perform a complex task, like automatically downloading a file, organizing it, and sending a report via email.
+    - **Resource:** Combine learnings from "Automate the Boring Stuff with Python" and online resources for PyAutoGUI and scheduling.
+
+* [ ] Lesson 6: Web Development with Flask
+40. **Introduction to Flask**
+    - **Learning Goal:** Set up a basic web server using Flask.
+    - **Resource:** Online tutorials or Flask documentation.
+    - **Practice Project:** Hello World App - Create a basic Flask app that displays "Hello, World!" on the homepage.
+
+41. **Flask Routing and Templates**
+    - **Learning Goal:** Create routes and use templates in Flask.
+    - **Resource:** Online tutorials or Flask documentation.
+    - **Practice Project:** Simple Blog - Create a Flask app with multiple pages (home, about, contact) using templates.
+
+42. **Flask and Forms**
+    - **Learning Goal:** Handle forms and user input in Flask.
+    - **Resource:** Online tutorials or Flask documentation.
+    - **Practice Project:** Contact Form - Add a contact form to your blog app and handle form submissions.
+
+43. **Flask and Databases**
+    - **Learning Goal:** Integrate a database with Flask.
+    - **Resource:** Online tutorials or Flask documentation.
+    - **Practice Project:** Blog with Database - Extend your blog app to store posts in a database.
+
+44. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 40-43 to enhance or expand.
+
+45-47. **Milestone Project**
+    - **Project:** Flask Web App - Build a complete web application using Flask, incorporating routing, templates, forms, and a database.
+    - **Resource:** Combine learnings from Flask tutorials and documentation.
+
+* [ ] Lesson 7: Data Science and Machine Learning
+48. **Introduction to Data Science**
+    - **Learning Goal:** Understand the basics of data science and the data science process.
+    - **Resource:** "Python for Data Analysis" by Wes McKinney (Chapters 1-2) or online data science tutorials.
+    - **Practice Project:** Data Exploration - Load a dataset and perform basic exploratory data analysis.
+
+49. **Data Cleaning and Preparation**
+    - **Learning Goal:** Learn data cleaning and preparation techniques.
+    - **Resource:** "Python for Data Analysis" by Wes McKinney (Chapters 3-4) or online data science tutorials.
+    - **Practice Project:** Data Cleaner - Clean and prepare a dataset for analysis.
+
+50. **Introduction to Machine Learning**
+    - **Learning Goal:** Understand the basics of machine learning and scikit-learn.
+    - **Resource:** Online tutorials or documentation for scikit-learn.
+    - **Practice Project:** Simple Classifier - Implement a basic classification algorithm on a prepared dataset.
+
+51. **Advanced Machine Learning**
+    - **Learning Goal:** Learn more advanced machine learning techniques.
+    - **Resource:** Online tutorials or documentation for scikit-learn.
+    - **Practice Project:** Model Evaluator - Implement multiple machine learning models and compare their performance on a dataset.
+
+52. **Practice Day**
+    - **Practice Project:** Choose any of the projects from Days 48-51 to enhance or expand.
+
+53-55. **Final Milestone Project**
+    - **Project:** Data Science Project - Choose a dataset, clean and prepare the data, perform exploratory data analysis, and implement machine learning models to draw insights or make predictions.
+    - **Resource:** Combine learnings from "Python for Data Analysis" and online resources for scikit-learn.

@@ -1,0 +1,29 @@
+= Devan Consciousness Project =
+
+This project's goal is to upload as much data from my life as I can and have that data be something to reference in infering memories, thoughts, and feelings into a chatbot.
+Starting from scratch, I had a few goals in mind including learning how to work with data in general.
+As this is a lofty goal, I know that I have a proclivity to quit when it get's hard or boring.
+But the end-product of what I want is very important to me so I need to keep that in mind during this process.
+I'll do my best!
+
+= Plan =
+
+1. Structuring the Database
+2. Capturing Data
+3. Data Storage
+4. Organizing and Accessing Data
+5. Automating Data Capture
+6. AI Integration
+7. Privacy and Security
+8. Legal and Ethical Considerations
+9. Implementation Tools
+10. Maintenance and Updates
+
+= [[DCP_Diary|Diary]] =
+
+I want to do my best to keep this going, and I've found that keeping to my goals is easiest when recorded, so I know why I'm doing it.
+With reflection, I believe that I can at least get very far.
+
+= [[DCP_Learning|Learning]] =
+
+I have a lot to learn for this project, so I'll keep organized with generated lessons and subject objectives

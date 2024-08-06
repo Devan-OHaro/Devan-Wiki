@@ -5,6 +5,7 @@ test
 - Projects
 	* Kitchen
 	* ADU
+	* [[Devan Consciousness]]
 - [[Hobbies]]
 	* Games
 	* Anime
