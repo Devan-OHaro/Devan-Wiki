@@ -1,6 +1,6 @@
 = Learning =
 
-* [.] Lesson 1: Python and SQL Basics
+* [o] Lesson 1: Python and SQL Basics
 1. **Quick Review of Python Basics**
    - **Learning Goal:** Refresh on variables, data types, conditions, loops, and functions.
    - **Resource:** "Automate the Boring Stuff with Python" - Chapters 1-3

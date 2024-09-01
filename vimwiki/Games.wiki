@@ -1,6 +1,6 @@
 = Games =
 
-* [.] Fallout NV
+* [.] [[Fallout NV]]
 * [ ] Mass Effect 2
 * [ ] Starfield
 * [.] Doom (2016)
