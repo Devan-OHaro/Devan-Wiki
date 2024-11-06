@@ -1,13 +1,14 @@
 = Games =
 
-* [.] [[Fallout NV]]
+* [X] [[Fallout NV]]
 * [ ] Mass Effect 2
-* [ ] Starfield
-* [.] Doom (2016)
+* [ ] [[Starfield]]
+* [.] [[Doom (2016)]]
 * [ ] Zelda: TOTK
 * [ ] Horizon Zero Dawn
 * [ ] [[Pokemon Emerald (New Version)]]
-* [ ] [[LOZ: The Minish Cap]]
+* [ ] [[LOZ - The Minish Cap]]
+* [ ] [[Dead Space (2023)]]
 
 == Want to play ==
 

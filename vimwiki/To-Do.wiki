@@ -5,7 +5,7 @@
 * [o] Demo trash and reorganize garage
 * [X] Reach out to countertop guy
 * [ ] Get back into LeetCode or study algorithms
-* [ ] Find new floor guy
+* [X] Find new floor guy
 * [ ] Fix light fixture
 * [ ] Put in baseboards next to pantry
 * [ ] Install island after finishing floors

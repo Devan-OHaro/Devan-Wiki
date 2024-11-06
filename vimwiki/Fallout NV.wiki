@@ -1,15 +1,105 @@
 = Fallout New Vegas =
 
-== Goals: ==
+== First Run ==
+
+My first run is basically complete at the Sep 7, 2024 entry.
+I really liked the game and the decisions I had to make, some of them were good, some of them didn't turn out the way I expected.
+It'll be hard to do another play through of this, but I think I would focus on the quests I didn't do and the DLC.
+If I want to see an alternative ending, I can just YouTube it, so I'd just do it for the unique gameplay if I were to run the game again.
+However I have other Bethesda games to get through, so this will probably have to wait.
+It's a little sad to think I may never play it again, but I can tell you I really enjoyed the world-building and the story of the game and I liked that I chose a somewhat unique ending - I may even just insert my favorite way the game ended into my head-cannon.
+Good job, Fallout.
+I may have to try Fallout 3 again to see what I missed.
+
+=== Goals: ===
 * [X] Meet "white bird" or something
 * [X] Enter New Vegas
 * [X] Complete Zion DLC
 * [o] increase Guns, Medical, and Sneak proportionally
 * [ ] Joshua's history with Caesar after completion of game
-* [ ] Talk to Benny
-* [ ] Get Whiskey Rose Companion
+* [X] Talk to Benny
+* [X] Get Whiskey Rose Companion
+* [ ] Complete Faction's side quests
+* [ ] Complete some old quests
+* [ ] Increase Medicine and repairs
 
-== Diary: ==
+=== Diary: ===
+
+Sat Sep  7 12:00:10 PM EDT 2024
+
+Last night I ate a gummy and only got a little fallout in, but what I remember is that I finished the Great Kahns stuff by going through the deathclaw quarry and finding Mellisa (turns out there was a back way to get to her).
+She asked me to get some drugs after I convinced her to speak agains the legion.
+So, the Great Kahns decided to leave the Mojave.
+I learned that by putting the paladin in charge of the BOS, there is no path ot peace between the NCR and them, so I "finished" the NCR quest by killing Mr. House this morning.
+I ignored the white gloves, I ignored the BOS, and the Boomers, Great Kahns, and Omerta's were dealt with by the Yes-Man.
+I installed him and did the battle of Hover Dam.
+Before that I had to protect the president from being killed (I don't think it really changed anything).
+So, I found the assassin at the top of the tower and took him out.
+Then I started the end game which was the battle of Hover Dam (sorry I forgot about the president thing and had to put that in).
+the fight was hard witha lot of resets and me going to get more gear.
+But eventually I got through and was able to convince Caesar to leave, the NCR to leave, and then the Yes-Man said he was making himself more aggressive.
+The end was not "good" or "bad" but it definitely wasn't what I was expecting since the small factions got hit the hardest and the Powder Gangers ran rampant.
+But, I'm happy I finally finished it.
+I set myself up after the end to do the DLC before the fight for Hover Dam, but maybe I can go back a few saves and do more NCR stuff or even Caesar's Legion stuff.
+I would probably just do another run for those though.
+Very good game, now I just have to play the DLC.
+Fri Sep  6 12:29:35 PM EDT 2024
+
+I played a lot this morning.
+So, from what I remmeber, I wanted to start the Ometas(??) quest line, but I was fortunate to find that some stuff could be closed off if you finish that too early.
+My game seems to be bugged, so I had to seek out the NCR ambassador and get some quests from him.
+He told me to recruit the Boomers, so I decided to finish the Boomer's quests and gain their idolization.
+I did a lot for them, like cure some sick people, give them parts, fixed their solar array.
+On the way to fix the Solar array, I had to get parts from HELIOS, so I decided to see what was up with that in regards to the Brotherhood of Steel (BOS) and the NCR.
+When I got there, it was under NCR control and they told me they flushed out the BOS like the holotapes accounted.
+I fixed everything up to the point where I decided where the solar power went in New Vegas, and before that I decided to see what the BOS was about.
+So, I gave all the info to the Paladin and outted the existing Elder, now the BOS likes me, but I'm not idoloized by them.
+It doesn't seem possible to get them in the "Side-Bets" quest like I did with the Boomers (but, I'll get to that).
+So, now with Haldin in charge, he told me to get rid of the Van-Graffs, who Cass doesn't like.
+I decided to basically undo my very very old quest of having the NCR deal with them legally, and just kill them all.
+Now Cass wants me to kill the Cassidy Caravan place, but I don't see a quest for that, so I'll ignore for now.
+So, now I finished the BOS stuff and then I rerouted the power of the solar array to all of New Vegas (some brownouts expected) and gained some fame with the "followers of the apocolypse".
+I went back to the Boomers, and fixed their solar panels, set up the lover-boy with some girl at the caravan place, and the boomers love me now.
+I have an option in the Side-bets quest to tell the Yes-man that they'll support me.
+I went to the NCR ambassador and told him the Boomers are on my side and he told me to meet someone at the Hover dam to deal with the Great Kahns.
+Oh, before that he wanted me to kill the second-in-command of the Kings, but luckily I used my favor from the head-in-charge to simply tell them to stop the violence.
+After making my way to the dam, the NCR told me to get rid of the Great Kahns, but after talking to them, I've found a potential polical route to stop them from joining Caesar's legion.
+I convinced the Legion ambasssador to oust himself and everyone there killed him, now I just need to convince a few more people to tell the leader that they should join the NCR.
+If that doesn't work, I can just kill the Papa Kahn and have the son take over and join the NCR.
+So, after this, I should have the "For the republic, part 2" quest done, then I can do the lover quest from the Ometas(??) so that the one girl can be with that dude and then I can finish that quest line to see if that family is worth my time.
+I love this game, there is so much connected and it's crazy the tracks I just went through just to do the thing I first started this morning.
+
+Thu Sep  5 11:24:36 AM EDT 2024
+
+I played a decent amount yesterday, a little sober, a little high.
+From what I remember, I went to the Brotherhood of Steel first (unknowingly since it was some bunker or something) and then they forced me to deal with a NCR ranger, who I convinced to leave.
+They trust me now, so the Elder has me going to investigate why patrols didn't come back and they're in a lockdown.
+Another Paladin wants me to scrape together stuff to get the Elder removed from his position since he started this lockdown, so I talked to a lot of people to see if that was possible.
+I went out and got all the information from the lost patrols and now I need to decide what to do with it - give it to the elder or the paladin.
+I sidetracked and went to the great kahns and they weren't anything special.
+I went to the Boomers and they want to integrate back into society since they are very closed off.
+Finally, I circled back to the Costello's (? one of the Vegas Families) and found some side-quests with them.
+I decided to circle back AGAIN to Whiskey Rose and deal with the plasma rifle gun owners (I forget their name), but they clearly didn't like me since I saw random people from their organization gunning me down.
+I took her back and they had a squad waiting for me and I "failed" the quest to get Whiskey rose to her - this is probably because I helped her a while ago get NCR dirt on them for killing caravans.
+They killed me after 5 or 6 of them outgunned me so that's where I stopped.
+I also learned that there's more to the "Wild Card: Side Bets" mission.
+I think I have to do more quests with the different factions to learn more about them and decide what to do with them when I supposedly become a robot overlord.
+So, my plan is to do a bunch of side-quests and then finally tell "Yes-man" what to do before completing what seems to be the main mission of the game.
+
+Tue Sep  3 01:15:48 PM EDT 2024
+
+I played a lot of the story this morning.
+So after dealing with the inventory issue after talking to Mr. House, I confronted Benny.
+I realized after one save/reload that after he tells me his plans, he just tries to have me killed.
+So I reloaded the save with a pistol in the casino (since the casino takes them away unless you smuggle them in).
+I killed the henchmen and learned a lot about his plan from the robot in his suite called "yes-man".
+He basically told me to get to know all the different factionst to decide where the robot power goes and what to do with it.
+I started to get to know everyone before trying to find Benny, and I didn't like the other two families like the "White-Gloves" or the other one.
+So, then I wanted to know what Caesar's Legion wanted to do, so I approached them since they were looking for me.
+Turns out Benny was there since that was a remote facility for Mr. House and a place to put the Platnium Chip.
+Caesar told me to destroy it, but I activated the securiton's weapon upgrades instead.
+Caesar then let me kill Benny.
+I put some inventory away, and I plan to talk to more factions, like the Brotherhood of Steel and others before deciding what to do with all the power "yes-man" will give me.
 
 Sun Sep  1 12:43:38 PM EDT 2024
 

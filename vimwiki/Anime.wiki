@@ -1,11 +1,12 @@
 = Anime List =
 
-* [X] Frieren
-* [.] [[Vinland Saga]]
-* [ ] [[Goblin Slayer]]
-* [ ] Spy x Family
-* [ ] [[Mashle]]
-* [X] Solo Leveling
+* [X] [[Frieren]]
+* [o] [[Vinland Saga]]
+* [X] [[Goblin Slayer]]
+* [ ] [[Spy x Family]]
+* [.] [[Mashle]]
+* [X] [[Solo Leveling]]
 * [ ] The Wrong Way to use Healing Magic
 * [.] Kaiju No. 8
-* [.] [[Demon Slayer]]
+* [X] [[Demon Slayer]]
+* [X] [[Konosuba]]

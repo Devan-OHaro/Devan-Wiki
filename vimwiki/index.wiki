@@ -1,7 +1,5 @@
 = Devan's Wiki =
 
-test
-
 - Projects
 	* Kitchen
 	* ADU
@@ -9,6 +7,7 @@ test
 - [[Hobbies]]
 	* Games
 	* Anime
+	* Manga
 	* Computer stuff
 - Work
 - Self Improvement
@@ -16,6 +15,7 @@ test
 	* Physical
 	* Relationships
 	* Organization
+- Notes/Writing
 - Errands
 	* [[To-Do]]
 		* Learn how to add manual links to vimwiki
@@ -46,87 +46,6 @@ Checkboxes:
 * gL<Space>		- Delete checkbox and all sibling checkboxes
 * gln			- Increase doneness of checkbox
 * glp			- Decrease doneness of checkbox
-
-== Anime Diary ==
-
-Moved to better area
-
-=== Vinland Saga ===
-
-Moved
-
-=== Frieren ===
-
-Sun Jul  7 05:57:03 PM EDT 2024
-
-They just completed the labrynth for the second trial to become a first class mage.
-Badass fight scenes.
-Fitz said he'd probably like the show and I agree.
-I have two episodes left and I'm ready to watch them and see how they finally finish the exams.
-
-Sun Jul  7 06:53:32 PM EDT 2024
-
-Just finished Frieren for now. 
-It was really good.
-Lot's of life lessons in there I hop not to forget.
-Mostly, it's about the small things, and not to have a tear-ful goodbye when you know you'll see them again.
-Cool.
-
-
-=== Solo Leveling ===
-
-Tue Jul  9 06:26:27 PM EDT 2024
-
-Just updating this now (again), but it was pretty good.
-Mostly just the main character doing his job change quest.
-It was difficult and fun to watch the boss fight.
-Super cool power of necromancy in the season finally.
-We'll see where that takes him in the next season.
-
-Mon Jul  8 05:56:08 AM EDT 2024
-
-Just updating this now, but last night I wached some solo-leveling to catch up with where I was at.
-I rewatched some episodes.
-He killed that one executive that was blood thirsty through his dungeons and now has a target on his back since it was a S-rank's brother.
-Then he tricked some buisiness into buying their C-rank dungeons.
-Yeah nothing crazy, just getting the work in to become A-rank.
-
-Vinland Saga
-
-Wed Jul 10 06:06:03 AM EDT 2024
-
-I resumed this last night.
-It's starting to get good with the king and everything.
-Now it'll be a political war and stuff since they were trying to kill the prince actually.
-Thorfin was a side character for the most part here.
-Anime seems so real when you're high.
-
-=== Goblin Slayer ===
-
-Pasted into proper link
-
-== Game Diary ==
-
-
-
-=== Doom (2016) ===
-Goals:
-* [ ] Upgrade the most aggresive options
-
-Fri Jul  5 09:33:18 AM EDT 2024
-
-Just started Doom. I love the badass feel of the game.
-Just running and gunning.
-So, I just fixed the relay and have a status report on the mars base and now I have to stop a meltdown. 
-I plan on making all my upgrades to whatever can kill more stuff rather than health or radar.
-This will be a fun playthrough.
-
-
-Sat Jul  6 03:22:40 PM EDT 2024
-
-I like it and get bored of it for the same reason, it's just a simple game about killing demons.
-I just saved the mars base from a meltdown and destroyed all the "Filters" that convert the demon energy to clean energy.
-Now I need to kill the scientst cult leader for trying to open the portals.
 
 == Testing == 
 
