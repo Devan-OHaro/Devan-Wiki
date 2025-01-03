@@ -1,0 +1,60 @@
+= Trophies =
+
+== First Playthrough ==
+-[X] All Systems Go
+-[X] Betrayed
+-[X] Brute Force
+-[X] Cannon Fodder
+-[X] Exodus
+-[X] Exterminator
+-[X] Get Off My Ship!
+-[X] Greenhouse Effect
+-[X] Keeper of the Faith
+-[X] Lab Rat
+-[X] Mindless Prey
+-[X] S.O.S.
+-[X] Strange Transmissions
+-[X] True Believer
+-[X] Welcome Aboard
+-[X] Wreckage
+-[X] Set A Benchmark
+-[X] Full Arsenal
+-[X] Legend Teller
+-[X] Story Teller
+-[X] There's Always Peng!
+-[X] Marksman
+-[X] Raise The Stakes
+-[X] Freeze
+-[X] Surgeon
+-[X] Autofire
+
+== New Game + ==
+-[X] Trusted Contractor *
+-[X] Front Toward Enemy -
+-[X] One Gun *
+-[X] Whole Again -/-/-/-/-
+-[X] Final Regeneration -/-/-/-/-
+-[X] Pack Rat *
+-[X] Wishbone -
+-[X] Z-Baller -
+-[X] Full Clearance -/-/-/-/-/-/-
+-[X] Marked 
+-[X] Merchant -/-/-/-/-/-/-/-/-/-/-
+-[X] Reunion -/-/-/-/-/(-)/-/-/-/-/-/-
+-[X] Built To Order -/- | -/- | -/- | -/- | -/- | -/- | -/-
+-[X] Backbreaker
+
+== Cleanup ==
+-[.] Live with the Hot Ones
+-[.] A Cut Above
+-[ ] Full Contact
+-[ ] Pusher
+-[ ] Eviscerator
+-[o] Maxed out * 
+	* (138/186 Nodes)
+	* (48 left)
+	* (25*-22*/23/23*/25*/24/21/23)
+	* (95 used)
+
+== Impossible ==
+-[ ] Untouchable
