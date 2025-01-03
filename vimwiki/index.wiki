@@ -5,9 +5,12 @@
 	* ADU
 	* [[Devan Consciousness]]
 - [[Hobbies]]
-	* Games
-	* Anime
-	* Manga
+	* [[Games]]
+	* [[Anime]]
+	* [[Manga]]
+	* [[Books]]
+	* [[MTG]]
+	* [[Warhammer: 40,000]]
 	* Computer stuff
 - Work
 - Self Improvement
@@ -15,6 +18,7 @@
 	* Physical
 	* Relationships
 	* Organization
+	* Spiritural
 - Notes/Writing
 - Errands
 	* [[To-Do]]

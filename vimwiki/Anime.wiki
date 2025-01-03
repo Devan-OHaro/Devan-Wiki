@@ -1,12 +1,24 @@
 = Anime List =
 
-* [X] [[Frieren]]
+== Watching ==
+
 * [o] [[Vinland Saga]]
-* [X] [[Goblin Slayer]]
 * [ ] [[Spy x Family]]
-* [.] [[Mashle]]
-* [X] [[Solo Leveling]]
 * [ ] The Wrong Way to use Healing Magic
 * [.] Kaiju No. 8
+* [.] [[Noragami]]
+* [.] [[Vivy - Flourite Eye's Song]]
+
+== More to come ==
+
+* [X] [[Frieren]]
+* [X] [[Mashle]]
+* [X] [[Solo Leveling]]
 * [X] [[Demon Slayer]]
 * [X] [[Konosuba]]
+* [X] [[Dandadan]]
+
+== Complete ==
+
+* [X] [[Goblin Slayer]]
+* [X] [[Love is War]]

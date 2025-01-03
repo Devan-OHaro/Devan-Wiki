@@ -1,5 +1,59 @@
 = Diary =
 
+Fri Jan  3 09:45:25 AM EST 2025
+
+Yesterday, I did a quick "statistics project".
+I just wanted to get something done for the day since it's been a while.
+I'll probably do more today to keep the ball rolling.
+
+Wed Dec 18 07:24:04 PM EST 2024
+
+Just a quick update from yeseterday.
+Oh... I updated yesterday.
+Well, today I started the data science class on Codecademy and that seems promising.
+I'll keep working on the Vim stuff while I'm at it.
+
+Tue Dec 17 01:15:02 PM EST 2024
+
+So, I didn't get too far today, I spent a lot of time learning vim and neovim since the program wants to use an API to control it.
+I think this will be a good lesson for me, so I'll keep looking into it and learn more about the commands for vim and stuff.
+It'll be useful to know how to operate vim like that.
+But, ChatGPT has a version of the program I want to work on, so I'll keep learning from it's attempt.
+Until I make the program, I'll keep it's version up to learn from and then I'll move on.
+
+Mon Dec 16 11:42:34 PM EST 2024
+
+I didn't do anything today, but I did log a lot of ideas of where I want this project to go in my diary (so details are there).
+The important stuff is that I need to fill this database regularly and that probably means daily.
+I figured an easy way to do that was to make an app for my phone.
+The app would ask for random pieces of information that you have to fill in - in addition to the daily logging of journalling, gratitude, forgiveness, mood, etc.
+Finally, the app will have a fail-safe if you don't respond.
+Something like notifying a trusted person when you don't acknowledge the app's notifications.
+And then, finally, sending all important passwords and data to the trusted person.
+Okay, that's a lot, but first we're going to start with prompts for the daily stuff and inputting it into the right file.
+After that the prompts will put stuff into a data table.
+
+Tue Dec  3 02:55:19 PM EST 2024
+
+Okay, I just finished the project I started yesterday and I didn't even ask ChatGPT for it's help.
+Well... okay, I used the stuff from yesterday, but when I ran into issues by making the code what I wanted, I was able to solve the issues pretty easily.
+I'm happy that I got a program to search for a keyword and output all the results to a file now.
+Next up I'll be searching for multiple keywords now and finding the context between them I think.
+
+Mon Dec  2 10:29:03 AM EST 2024
+
+I put this in my journal entries, but I started working on this a little more recently.
+I won't get too philisophical, but I realized that just inching forward a little bit every once in a while is still progress and I want to keep it up.
+So, I'm doing a little at a time.
+Very little.
+Anyway, I started with having ChatGPT help me write some programs.
+First one was just removing an empty line from the top of a text file.
+Then I organized the utility program like that one into a directory and had another program call it so that it would iterate through a directory.
+And today I started writing more utilities to the same program to call upon.
+This next one will search for a keyword in all the files in a directory and output the lines and their metadata to a file.
+I stil need to make a program to call upon the method I just mentioned and I need to change some conditional statements, but so far so good.
+We'll probably check it tomorrow or later today.
+
 Fri Aug  9 01:17:35 PM EDT 2024
 
 Okay, I did some work since Tuesday I promise.

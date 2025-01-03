@@ -1,14 +1,21 @@
-= Games =
+= Playing =
 
-* [X] [[Fallout NV]]
 * [ ] Mass Effect 2
 * [ ] [[Starfield]]
 * [.] [[Doom (2016)]]
 * [ ] Zelda: TOTK
 * [ ] Horizon Zero Dawn
 * [ ] [[Pokemon Emerald (New Version)]]
-* [ ] [[LOZ - The Minish Cap]]
-* [ ] [[Dead Space (2023)]]
+* [O] [[LOZ - The Minish Cap]]
+* [O] [[Dead Space (2023)]]
+* [ ] [[Fire Emblem: Three Houses]]
+* [.] [[Space Marine (2011)]]
 
 == Want to play ==
 
+* [ ] Neir: Automota
+* [ ] Metal Gear Solid 5
+
+== Complete ==
+
+* [X] [[Fallout NV]]

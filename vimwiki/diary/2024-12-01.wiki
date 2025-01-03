@@ -1,0 +1,39 @@
+Sun Dec  1 02:17:13 PM EST 2024
+
+So, the last update was about the wedding.
+Since then, I got really sick with Covid and something else.
+Covid hit my sinuses and the other illness made me congested for like 3 weeks.
+I'm still kinda sniffling and coughing.
+Anyway, the big stuff that happened was Thanksgiving.
+So, we had everyone on mom's side for early dinner and then my social battery drained, but I lasted longer than I normally do and I had some energy when talking to others.
+Then, Courtney, Carly, Aunt Dawn and the Bachtiars came to the Beaumont for some drinks and I was able to successfully get them all to play Left, Center, Right and Jackbox games.
+I'm glad I was able to get people to do that since it's the only thing that I can do once my battery is gone.
+I also convinced Aidan and Eileen that there were Gazingees from when Pop told me about them.
+They're the fake creature that I imagined to be deer-like with huge colorful antleers and hands that extended from their chest to grab children with.
+That was funny.
+Oh, and I also led a DnD session with Chris, Sam, TJ, Mackenzie, Collin, Abby, Carly as the one-shot that Johnny Bones led me through as my first session.
+They all said they had fun, so I'm hoping to try again later.
+I also had fun.
+I fixed Saori's stand because the figurine broke at one point so I drilled out the peg that broke off from her foot and epoxied it back.
+Collin just gave me a Hatsune Miku Christmas (2022) figurine for christmas this morning (early).
+I really enjoy them even though it's uber nerdy and I'll have to hide them for the most part...
+Anyway, I really got into the rythym game for Miku and it's actually super fun - I forgot how much I like music games.
+I tried to start Fire Emblem: Three Houses, but I only got through the tutorial so far.
+Collin came home from Texas Thanksgiving with Abby and her mom the day after Thanksgiving and we hung out for a bit before they went to Eldersburg, I went to Sam's to play jackbox again, then they took me back so we could have our Family Thanksgiving Saturday.
+So, we did that last night and then Sam and Meredith came over for MORE jackbox games and drinking.
+I lost my battery into the night especially after coming out with the speech that "I'm important" during our yearly talk.
+I don't exactly feel that way just yet, and I don't exactly feel heard all the time, but I'm working on it.
+Anyway, I'm losing steam because I just want to go back to my life, but my life is about to change.
+We've all (I mean EVERYONE) been brainstorming what I should be doing in my future, but the only step I'm taking at the moment is to find a job here in Maryland that can support me if I'm sick again.
+It's the first step in the grand plan to move back here.
+So, it might take a while to 'get my life back' so I should do my best to live it as it is now.
+But there is talk of me working for Northrop Grumman, living at Sam/Meredith's apartment building until I work on and finish the Richardson house for me to live in.
+As for the house up in Maine, 22 Spillanes, I'm still working on that.
+But I have sent a bunch of applications so far, and I'm curious how those will go... except Northrop, those have been denied by computers for not reaching minimium requirements.
+Anyway, I'm enjoyin my nerd life with a small emphasis on ~trying~ to date with minimal effort.
+I also want to get strong again.
+That should be a New year's resolution.
+Oh, and I started the chatbot again.
+I made some progress with a program that simply removes empty lines at the beginning of a file in a directory.
+So, as I'm writing this, there's an empty line after I input the command "r!date" in nvim, and I just need to run the program and that will be taken care of!
+Next step is to automate the program happening when I do things, which will take me to dot files I think.
